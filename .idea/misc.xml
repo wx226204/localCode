@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/workspace/app/src/main/res/drawable/dpp_cc4_search_shape.xml" value="0.264" />
+        <entry key="..\:/workspace/app/src/main/res/layout/activity_main.xml" value="0.21304926764314247" />
+        <entry key="..\:/workspace/app/src/main/res/layout/dpp_cc4_card_view.xml" value="0.23489583333333333" />
+        <entry key="..\:/workspace/app/src/main/res/layout/item_banner_imager.xml" value="0.17447916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
